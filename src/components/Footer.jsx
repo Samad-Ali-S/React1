@@ -6,7 +6,7 @@ const Footer = () => {
       <div className="grid grid-cols-2 lg:grid-cols-3 gap-4">
         <div>
             <h3 className="text-md font-semibold mb-4">Resources</h3>
-            <ul className="space-y-2">
+            <ul className="space-y-2"> 
                 {resourcesLinks.map((link) => (
                     <li key={link.href}>
                         <a 
