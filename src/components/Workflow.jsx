@@ -3,7 +3,7 @@ import { checklistItems } from "../constants";
 import code from "../assets/code.jpg";
 code
 const Workflow = () => {
-  return (
+  return ( 
     <div className="mt-20">
       <h2 className="text-3xl sm:text-5xl lg:text-6xl text-center mt-6 tracking-wide">
         Accelerate your{" "}
