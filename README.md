@@ -139,7 +139,7 @@ Contributions are welcome! Feel free to:
 
 ## 📧 Contact
 
-Your Name - [your@email.com](mailto:your@email.com)
+SAMAD ALI - [your@email.com](Fa23bese0016@maju.edu.pk)
 
 Project Link: [(https://github.com/Samad-Ali-S/React1.git)].
 
