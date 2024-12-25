@@ -4,7 +4,7 @@ A modern virtual reality interface built with React. This project demonstrates i
 
 ## 🚀 Live Demo
 
-Visit the live website: [Your VirtualR Demo URL Here](#)
+Visit the live website: [https://react1-three-rouge.vercel.app/](#)
 
 ![VirtualR Preview](your-screenshot-url-here)
 
@@ -14,7 +14,7 @@ To run this repository locally:
 
 ```bash
 # 1. Clone the repository
-git clone https://github.com/your-username/react1.git
+git clone https://github.com/Samad-Ali-S/React1.git
 
 # 2. Navigate to project directory
 cd react1
@@ -60,7 +60,7 @@ npm run dev
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-username/react1.git
+   git clone https://github.com/Samad-Ali-S/React1.git
    ```
 
 2. Navigate to the project directory:
@@ -141,7 +141,7 @@ Contributions are welcome! Feel free to:
 
 Your Name - [your@email.com](mailto:your@email.com)
 
-Project Link: [https://github.com/your-username/react1](https://github.com/your-username/react1)
+Project Link: [(https://github.com/Samad-Ali-S/React1.git)].
 
 ## 📝 License
 
