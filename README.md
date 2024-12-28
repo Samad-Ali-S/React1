@@ -1,6 +1,6 @@
 # VirtualR
 
-A modern virtual reality interface built with React. This project demonstrates immersive VR experiences through a web browser using React and advanced web technologies.
+A modern virtual reality interface built with React. This project demonstrates immersive VR experiences through a web browser using React and advanced web technologies  .
  
 ## 🚀 Live Demo
 
