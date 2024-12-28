@@ -15,7 +15,7 @@ To run this repository locally:
 
 ```bash 
 # 1. Clone the repository
-git clone https://github.com/Samad-Ali-S/React1.git
+git clone https://github.com/Samad-Ali-S/React1.git 
 
 # 2. Navigate to project directory
 cd react1
