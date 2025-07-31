@@ -13,7 +13,7 @@ Visit the live website: [https://react1-three-rouge.vercel.app/](#)
 
 To run this repository locally:
 
-```bash 
+```bash  
 # 1. Clone the repository
 git clone https://github.com/Samad-Ali-S/React1.git 
 
